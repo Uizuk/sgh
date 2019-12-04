@@ -1,5 +1,2 @@
-.ipynb_checkpoints
-.ipynb*
-venv
-out.txt
-out.bin
+*.txt
+*.ipynb
