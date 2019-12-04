@@ -1,6 +1,6 @@
 import re
 d = {}
-f = "elo.txt"
+f = "files/praca2.txt"
 file = open(f, "r")
 
 for line in file.read().split():
