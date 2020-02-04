@@ -80,5 +80,7 @@ titanic_class_names = y.unique()
 # Image(graph.create_png())
 
 #Zapisanie modelu
+model = (encoder, tree)
+
 with open("titanic.pkl", "wb") as model_file:
   pickle.dump(model, model_file)
