@@ -1,0 +1,3 @@
+[submodule "projekt_zaliczeniowy/age-gender-estimation"]
+	path = projekt_zaliczeniowy/age-gender-estimation
+	url = https://github.com/dzkb/age-gender-estimation
