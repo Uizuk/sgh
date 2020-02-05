@@ -53,6 +53,9 @@ def index():
   # 5. przygotowanie wektora wejściowego dla drzewa decyzyjnego (m. in. preprocessing)
   # 6. przekazanie wektora do drzewa decyzyjnego
   # 7. zwrócenie wyniku
+
+  print(survival_prediction)
+  print(np_features)
   
   return str(survival_prediction)
 
